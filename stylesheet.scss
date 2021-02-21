@@ -1,6 +1,6 @@
 body{
   margin: 0;
-  font-family: "Hiragin Kaku Gothic ProN";
+  font-family: 'メイリオ', Meiryo,'Arial','ヒラギノ角ゴシック','Hiragino Sans',sans-serif;
 }
 
 a{
@@ -17,5 +17,7 @@ a{
 .top-wrapper{
   padding-top: 180px;
   padding-bottom: 100px;
+  background-image: url(back-img.jpg);
   color: white;
+  background-size: cover;
 }
