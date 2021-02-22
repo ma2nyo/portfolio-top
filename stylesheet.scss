@@ -36,19 +36,7 @@ a{
 }
 
 .btn-wrapper{
-  margin: 10px 0;
-}
-
-.btn{
-  padding: 8px 24px;
-  color: white;
-  display: inline-block;
-  opacity: 0.8;
-  border-radius: 4px;
-}
-
-.btn:hover{
-  opacity: 1;
+  margin: 20px 0;
 }
 
 .me{
@@ -63,8 +51,16 @@ a{
   background-color: #d8bfd8;
 }
 
-.btn-wrapper{
-  margin: 20px 0;
+.btn{
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover{
+  opacity: 1;
 }
 
 .fa{
@@ -77,6 +73,7 @@ a{
 
 header{
   height: 65px;
+  width: 100%;
   background-color: rgba(245,245,220,0.8);
 }
 
@@ -87,6 +84,26 @@ header p{
 .logo{
   width: 25px;
   margin-top: 20px;
+}
+
+.header-left{
+  float: left;
+}
+
+.lesson-wrapper{
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: $back;
+  text-align: center;
+
+.heading{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    color: $btn;
+}
+
+.heading h2{
+  font-weight: normal;
 }
 
 .lesson{
