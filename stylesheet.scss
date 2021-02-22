@@ -9,7 +9,7 @@ a{
 
 .logo{
   width: 25px;
-  margin-top: 30px;
+  margin-top: 40px;
 }
 
 .header-left{
@@ -103,6 +103,7 @@ header{
 
 .heading h2{
   font-weight: normal;
+  color: #20b2aa;
 }
 
 .lesson{
@@ -114,14 +115,11 @@ header{
   position: relative;
 }
 
-.lesson-icon img{
-
-}
-
 .lesson-icon p{
   position: absolute;
   top: 90px;
   width: 100%;
+  color: #2f4f4f;
 }
 
 .txt-contents{
