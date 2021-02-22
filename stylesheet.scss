@@ -110,3 +110,22 @@ header p{
   float:left;
   width: 30%;
 }
+
+.lesson-icon{
+  position: relative;
+}
+
+.lesson-icon p{
+  position: absolute;
+  top: 90px;
+  width: 100%;
+  color: $btn;
+}
+
+.txt-contents{
+  width: 80%;
+  display: inline-block;
+  margin: 20px;
+  font-size: 12px;
+  color: #b3aeb5;
+}
