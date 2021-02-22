@@ -9,10 +9,6 @@ a{
   text-decoration: none;
 }
 
-header p{
-  color: $btn;
-}
-
 .logo{
   width: 25px;
   margin-top: 20px;
@@ -93,14 +89,13 @@ header{
 .lesson-wrapper{
   height: 500px;
   padding-bottom: 80px;
-  background-color: $back;
   text-align: center;
 }
 
 .heading{
   padding-top: 60px;
   padding-bottom: 30px;
-  color: $btn;
+  color: #20b2aa;
 }
 
 .heading h2{
@@ -120,7 +115,6 @@ header{
   position: absolute;
   top: 90px;
   width: 100%;
-  color: $btn;
 }
 
 .txt-contents{
