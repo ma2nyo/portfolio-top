@@ -111,9 +111,10 @@ header{
 .lesson{
   float: left;
   width: 30%;
-  & .text-contents{
-    text-align: left;
-  }
+}
+
+.lesson .text-contents{
+  text-align: left;
 }
 
 .lesson-icon{
