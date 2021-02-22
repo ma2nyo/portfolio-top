@@ -85,7 +85,7 @@ text-align: center;
 }
 
 header{
-  height: 65px;
+  height: 80px;
   width: 100%;
   background-color: rgba(245,245,220,0.8);
 }
@@ -94,6 +94,7 @@ header{
   height: 500px;
   padding-bottom: 80px;
   background-color: rgba(245,245,220,0.8);
+  text-align: center;
 }
 
 .heading{
@@ -110,6 +111,9 @@ header{
 .lesson{
   float: left;
   width: 30%;
+  & .text-contents{
+    text-align: left;
+  }
 }
 
 .lesson-icon{
