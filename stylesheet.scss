@@ -71,6 +71,10 @@ a{
   margin-right: 5px;
 }
 
+.far{
+  margin-right: 100px;
+}
+
 header{
   height: 65px;
   background-color: rgba(245,245,220,0.8);
@@ -83,4 +87,9 @@ header p{
 .logo{
   width: 25px;
   margin-top: 20px;
+}
+
+.lesson{
+  float:left;
+  width: 30%;
 }
