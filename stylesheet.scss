@@ -1,5 +1,3 @@
-@import url("variables");
-
 body{
   margin: 0;
   font-family: 'メイリオ', Meiryo,'Arial','ヒラギノ角ゴシック','Hiragino Sans',sans-serif;
@@ -23,6 +21,10 @@ a{
   padding-left: 15px;
   padding-right: 0 15px;
   margin: 0 auto;
+}
+
+.container span{
+color: #20b2aa;
 }
 
 .top-wrapper{
@@ -49,15 +51,15 @@ a{
 }
 
 .me{
-  background-color: #20b2aa;
+  background-color: #fa8072;
 }
 
 .art{
-  background-color: #d8bfd8;
+  background-color: #20b2aa;
 }
 
 .insta{
-  background-color: #d8bfd8;
+  background-color: #20b2aa;
 }
 
 .btn{
