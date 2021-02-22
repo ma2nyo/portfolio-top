@@ -76,6 +76,10 @@ header{
   background-color: rgba(245,245,220,0.8);
 }
 
+header p{
+  color: $btn;
+}
+
 .logo{
   width: 50px;
   margin-top: 20px;
