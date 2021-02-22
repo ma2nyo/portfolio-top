@@ -3,6 +3,10 @@ body{
   font-family: 'メイリオ', Meiryo,'Arial','ヒラギノ角ゴシック','Hiragino Sans',sans-serif;
 }
 
+li{
+  list-style: none;
+}
+
 a{
   text-decoration: none;
 }
@@ -111,10 +115,6 @@ header{
 .lesson{
   float: left;
   width: 30%;
-}
-
-.text-contents li{
-  text-align: left;
 }
 
 .lesson-icon{
