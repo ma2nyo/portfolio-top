@@ -8,7 +8,7 @@ a{
 }
 
 .logo{
-  width: 120px;
+  width: 60px;
   margin-top: 20px;
 }
 
@@ -23,8 +23,14 @@ a{
   margin: 0 auto;
 }
 
+.header-left{
+  color: #2f4f4f;
+  text-align: center;
+}
+
 .container span{
-color: #2f4f4f;
+color: white;
+text-align: center;
 }
 
 .top-wrapper{
@@ -87,7 +93,6 @@ header{
 .lesson-wrapper{
   height: 500px;
   padding-bottom: 80px;
-  text-align: center;
   background-color: rgba(245,245,220,0.8);
 }
 
